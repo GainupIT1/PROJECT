@@ -1,0 +1,102 @@
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Fixed.csproj.ResolveComReference.cache
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmCalculator.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmCalculator_Voucher.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmCompany_ChangeOver.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmComponentMaster.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmPermissionMaster_User_level_Bill.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmProcessMaster.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmUOMMaster.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmUserMaster.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmWagesEntry.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.Frm_Image_Viewer.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmCompanyMaster.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmCompLogin.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmCriteria.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmCRViewer.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmInsert_Delete.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmLogin.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmMail.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmODBCLogin.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmPermissionMaster.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmPrintOPtions.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmPrintPreview.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmPrintView.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.FrmReportViewer.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\SelectionTool.FrmSelectionTool.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\SelectionTool.FrmSelectionToolItem.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\SelectionTool.FrmSelectionTool_ledger.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.Frm_Ledger_Selection.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.Frm_Permission_Master.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Accounts.MDIMain.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Branch.Properties.Resources.resources
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Fixed.csproj.GenerateResource.Cache
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\bin\Debug\Fixed.exe
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\bin\Debug\Fixed.pdb
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\bin\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Fixed.exe
+C:\Documents and Settings\administrator.GAINUP\Desktop\Fixed\Branch\obj\Debug\Fixed.pdb
+D:\ERP\Fixed\Branch\obj\Debug\Fixed.exe
+D:\ERP\Fixed\Branch\obj\Debug\Fixed.pdb
+D:\ERP\Fixed\Branch\bin\Debug\Fixed.exe
+D:\ERP\Fixed\Branch\bin\Debug\Fixed.pdb
+D:\ERP\Fixed\Branch\bin\Debug\Interop.VBIDE.dll
+D:\ERP\Fixed\Branch\obj\Debug\ResolveAssemblyReference.cache
+D:\ERP\Fixed\Branch\obj\Debug\Interop.VBIDE.dll
+D:\ERP\Fixed\Branch\obj\Debug\Fixed.csproj.ResolveComReference.cache
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmCalculator.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmCalculator_Voucher.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmCompany_ChangeOver.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmComponentMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmUOMMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmUserMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmWagesEntry.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.Frm_Image_Viewer.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmCompanyMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmCompLogin.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmCriteria.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmCRViewer.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmInsert_Delete.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmLogin.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmMail.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmODBCLogin.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmPermissionMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmPrintOPtions.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmPrintPreview.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmPrintView.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmReportViewer.resources
+D:\ERP\Fixed\Branch\obj\Debug\SelectionTool.FrmSelectionTool.resources
+D:\ERP\Fixed\Branch\obj\Debug\SelectionTool.FrmSelectionToolItem.resources
+D:\ERP\Fixed\Branch\obj\Debug\SelectionTool.FrmSelectionTool_ledger.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.Frm_Ledger_Selection.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.MDIMain.resources
+D:\ERP\Fixed\Branch\obj\Debug\Branch.Properties.Resources.resources
+D:\ERP\Fixed\Branch\obj\Debug\Fixed.csproj.GenerateResource.Cache
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmAssetGroupMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmAssetSubGroupMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmChargesMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmAssetMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmPermissionMaster_User_Level_Fixed.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.Frm_Fixed_Permission_Master.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmAssetRegister.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmDepreciationMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmAssetFormula.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmDepreciationCalculation.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmAssetSalesMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmTransferEntry.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmBarcode_Generation.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmItemMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmUnitMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmSingleItemBarcode.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmSalesInvoiceNew.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmStockReport.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmTransferRegister.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.Rpt_SalesRegister.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmDivisionMaster.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.Rpt_SalesAbstract.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmStoreItem.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmOpeningStock_Alter.resources
+D:\ERP\Fixed\Branch\obj\Debug\Accounts.FrmReOrderLevel.resources
+D:\ERP\Stage\Branch\obj\Debug\Fixed.exe
+D:\ERP\Stage\Branch\obj\Debug\Fixed.pdb
